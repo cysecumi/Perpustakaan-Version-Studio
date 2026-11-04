@@ -1,0 +1,8 @@
+{
+  "name": "Library Management System",
+  "description": "A comprehensive library management system for managing members, books, and transactions. Ported from PHP to Next.js.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
